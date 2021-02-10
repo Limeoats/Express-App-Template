@@ -6,24 +6,20 @@
 ** Packages
 
 *** express
-
-**** A web framework for node that lets you create server-side applications
+    A web framework for node that lets you create server-side applications
 
 *** morgan
-
-**** A middleware for express that prints logs with information on incoming requests
+    A middleware for express that prints logs with information on incoming requests
 
 *** helmet
-
-**** A middleware for express that helps to secure express apps by setting some additional HTTP headers.
+    A middleware for express that helps to secure express apps by setting some additional HTTP headers.
 
 *** cors
-
-**** A middleware for express that allows cross origin resource sharing
+    A middleware for express that allows cross origin resource sharing
 
 *** nodemon
+    Auto refreshes the node application on each save
 
-**** Auto refreshes the node application on each save
 
 ** Project setup
 
