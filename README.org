@@ -34,4 +34,4 @@
 
 ** Trying it out
 
-*** In your web browser, navigate to http://localhost:4000. You should see a JSON response.
+   In your web browser, navigate to http://localhost:4000. You should see a JSON response.
